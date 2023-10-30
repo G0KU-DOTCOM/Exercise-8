@@ -1,2 +1,2 @@
-# Exercise-8 sammen med Kristian Ke 
-# INF201
+Exercise-8 sammen med Kristian Ke 
+INF201
